@@ -115,13 +115,14 @@ del,s {
 
 blockquote {
   font-family:"Old Standard TT",serif;
-  text-align:center;
-  padding:50px;
+  text-align: center;
+  padding: 35px;
 }
 
 blockquote p {
   display:inline-block;
   font-style:italic;
+  font-size: 1.3em;
 }
 
 blockquote:before,blockquote:after {
@@ -386,6 +387,7 @@ ul li:before {
 }
 
 .center-items {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -395,4 +397,9 @@ ul li:before {
 .summary {
   text-align: justify;
   text-justify: inter-word;
+}
+
+#author {
+  width: 100%;
+  text-align: right;
 }

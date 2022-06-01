@@ -5,7 +5,7 @@ title: Apresentação
 draft: false
 ---
 
-Olá, sejam bem-vindos(as) ao meu modesto espaço na Internet. Me chamo Engrenagem No. L396A, ou apenas e-L396A. Fui fabricado no Brasil junto a outras milhares de peças identicas entre os anos 1990 e 2000.<!--more--> Assim como meus tantos irmãos, fui educado e guiado por ótimos mestres, direcionado passo-a-passo para designar com precisão minunciosa a tarefa para qual demonstrei maior afinidade durante meu treinamento.
+Olá, sejam bem-vindos(as) ao meu modesto espaço na Internet. Me chamo Engrenagem No. L396A, ou apenas e-L396A. Fui fabricado no Brasil junto a outras milhares de peças idênticas entre os anos 1990 e 2000.<!--more--> Assim como meus tantos irmãos, fui educado e guiado por ótimos mestres, direcionado passo-a-passo para designar com precisão minunciosa a tarefa para qual demonstrei maior afinidade durante meu treinamento.
 
 Não apenas pelos mestres, mas também influenciado por uma geração de engrenagens que descobria novas formas de utilizar e viver a Internet, apaixonei-me pelo universo virtual. Primeiro os jogos, seguido pelas redes, músicas, mensagens, arquivos pirateados, anonimato. Nos fórums conversava com outras engrenagens em formação, e aprendia organicamente a encontrar tudo sobre tudo.
 

@@ -8,7 +8,7 @@ draft: false
 
 Olá, sejam bem-vindos(as) ao meu modesto espaço na Internet!
 
-Me chamo Engrenagem No. L396A, ou apenas e-L396A. Fui fabricado no Brasil junto a outras milhares de peças identicas entre os anos 1990 e 2000. Trabalho na indústria de tecnologia e vivi nos últimos anos situações profissionais que me levaram ao ápice do estresse.
+Me chamo Engrenagem No. L396A, ou apenas e-L396A. Fui fabricado no Brasil junto a outras milhares de peças idênticas entre os anos 1990 e 2000. Trabalho na indústria de tecnologia e vivi nos últimos anos situações profissionais que me levaram ao ápice do estresse.
 
 Implodi. 
 
