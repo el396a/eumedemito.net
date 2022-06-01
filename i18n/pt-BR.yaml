@@ -1,0 +1,6 @@
+readingTime:
+  one: "leitura de {{ .Count }} minuto"
+  other: "leitura de {{ .Count }} minutos"
+
+writtenby:
+  other: "escrito por"

@@ -1,0 +1,27 @@
+{{ partial "header.html" . }}
+
+<section id=content>
+  <ul class=posts_listing>
+    {{ range .Site.RegularPages }}
+    {{ if eq .Type "artigos" }}
+      <li>
+        <hr>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="date">
+          {{if not .Date.IsZero }}
+            {{ .Date | time.Format ":date_full" | humanize }}
+            <br />
+            {{ i18n "readingTime" .ReadingTime | humanize}}
+          {{end}}
+        </div>
+        <div class="summary">
+          {{ .Summary }}
+        </div>
+      </li>
+    {{ end }}
+    {{ end }}
+  </ul>
+</section>
+
+{{ partial "footer.html" . }}
+

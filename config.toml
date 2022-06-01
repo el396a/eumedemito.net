@@ -1,3 +1,24 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://eumedemito.net/"
+title = "Eu Me Demito"
+author = "e-L396A"
+canonifyurls = true
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+defaultContentLanguage = "pt-br"
+
+[params]
+  disableWebFonts = false
+
+  [params.footer]
+    copyright = "Copyright © 2022 e-L396A"
+
+[[menu.main]]
+    name = "Sobre"
+    url  = "/sobre"
+[[menu.main]]
+    name = "Github"
+    url  = "https://github.com/el396a/eumedemito.net"
+
