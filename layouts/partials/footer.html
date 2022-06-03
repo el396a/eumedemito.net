@@ -1,6 +1,8 @@
   <section id="footer">
     <div class="center-items">
-      <p>{{ .Site.Params.footer.copyright }}</p>
+      <p>{{ .Site.Params.footer.copyright }} · <a href="mailto:{{ .Site.Params.footer.email }}" alt="{{ i18n "sendEmail" | humanize }}">
+        {{ i18n "contact" | humanize }}
+      </a></p>
     </div>
   </section>
 </body>

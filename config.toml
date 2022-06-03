@@ -11,14 +11,12 @@ defaultContentLanguage = "pt-br"
 
 [params]
   disableWebFonts = false
+  hyvorTalkID = 7175
 
   [params.footer]
     copyright = "Copyright © 2022 e-L396A"
+    email = "e-L396A@proton.me"
 
 [[menu.main]]
     name = "Sobre"
     url  = "/sobre"
-[[menu.main]]
-    name = "Github"
-    url  = "https://github.com/el396a/eumedemito.net"
-

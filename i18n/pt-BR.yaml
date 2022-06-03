@@ -4,3 +4,9 @@ readingTime:
 
 writtenby:
   other: "escrito por"
+
+sendEmail:
+  other: "envie um email para o autor"
+
+contact:
+  other: "contato"
