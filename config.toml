@@ -1,7 +1,6 @@
 baseurl = "https://eumedemito.net/"
 title = "Eu Me Demito"
 author = "e-L396A"
-canonifyurls = true
 theme = "black-and-light"
 
 pygmentsstyle       = "bw"
@@ -20,3 +19,9 @@ defaultContentLanguage = "pt-br"
 [[menu.main]]
     name = "Sobre"
     url  = "/sobre"
+    params = { title  = "Saiba mais sobre este blog" }
+
+[[menu.main]]
+    name = "RSS"
+    url  = "/index.xml"
+    params = { title  = "RSS feed (todos artigos do blog)" }

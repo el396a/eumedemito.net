@@ -1,0 +1,29 @@
+{{ partial "header.html" . }}
+
+<section id=content>
+  <div class="section-title center-items">
+    <h2>{{ .Title }}</h2>
+  </div>
+
+  <ul class=posts_listing>
+    {{ range .Pages }}
+      <li>
+        <hr>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <div class="date">
+          {{if not .Date.IsZero }}
+            {{ .Date | time.Format ":date_full" | humanize }}
+            <br />
+            {{ i18n "readingTime" .ReadingTime | humanize}}
+          {{end}}
+        </div>
+        <div class="summary">
+          {{ .Summary }}
+        </div>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
+{{ partial "footer.html" . }}
+

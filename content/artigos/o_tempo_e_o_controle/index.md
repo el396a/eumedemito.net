@@ -6,6 +6,7 @@ draft: false
 ---
 
 Já são 11 horas da noite. Cinco eventos me separam do próximo dia de labuta: terminar esta tarefa, deslocar-me até minha casa, esperar por alguma comida de aplicativo, descansar por 5 horas de sono, e então realizar o trajeto de volta para este mesmo lugar.
+
 Se tudo der certo, num piscar de olhos estarei novamente aqui, sem perceber qualquer troca de contexto, nenhuma grande emoção, nenhum evento incomum, apenas o mesmo replay cotidiano, dia após dia, semana após semana.
 Encarar minha situação sentado nesta cadeira me embrulha o estômago. O que há de tão importante aqui? Quem são essas pessoas?
 
